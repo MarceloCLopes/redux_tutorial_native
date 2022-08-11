@@ -12,6 +12,6 @@ Exemplo de uso do redux no react native em uma simples aplicação de contagem, 
 
 ## Screenshot
 
-![mobile](.github/img.png)
+![img](.github/img.png)
 
 ---
